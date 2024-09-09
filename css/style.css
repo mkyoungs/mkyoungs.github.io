@@ -13,7 +13,7 @@ p{
 	font-size:14px;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight:100;
 	margin:0;
 }
@@ -545,7 +545,7 @@ p.qui{
     border-radius: 0;
     font-size: 1em;
     color: #999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	letter-spacing:1px;
 }
 .nav-tabs > li.active {
